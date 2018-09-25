@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\bin\Debug\netcoreapp2.1\GitSync.deps.json
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\bin\Debug\netcoreapp2.1\GitSync.runtimeconfig.json
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\bin\Debug\netcoreapp2.1\GitSync.runtimeconfig.dev.json
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\bin\Debug\netcoreapp2.1\GitSync.dll
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\bin\Debug\netcoreapp2.1\GitSync.pdb
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\bin\Debug\netcoreapp2.1\ReqspecModels.dll
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\bin\Debug\netcoreapp2.1\ReqspecModels.pdb
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\obj\Debug\netcoreapp2.1\GitSync.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\obj\Debug\netcoreapp2.1\GitSync.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\obj\Debug\netcoreapp2.1\GitSync.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\obj\Debug\netcoreapp2.1\GitSync.AssemblyInfo.cs
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\obj\Debug\netcoreapp2.1\GitSync.csproj.CopyComplete
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\obj\Debug\netcoreapp2.1\GitSync.dll
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\GitSync\obj\Debug\netcoreapp2.1\GitSync.pdb

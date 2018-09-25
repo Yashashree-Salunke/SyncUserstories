@@ -1,0 +1,17 @@
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.deps.json
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.runtimeconfig.json
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.runtimeconfig.dev.json
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.dll
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\Scheduler.pdb
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\GitSync.dll
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\ReqspecModels.dll
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\GitSync.pdb
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\bin\Debug\netcoreapp2.1\ReqspecModels.pdb
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.AssemblyInfo.cs
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.csproj.CopyComplete
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.dll
+C:\Users\admin\Downloads\ReqspecSync-master\ReqspecSync-master\Scheduler\obj\Debug\netcoreapp2.1\Scheduler.pdb
